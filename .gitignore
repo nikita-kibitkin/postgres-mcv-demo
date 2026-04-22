@@ -1,0 +1,4 @@
+results/*.txt
+results/*.log
+postgres-data/
+.idea/
